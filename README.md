@@ -1,2 +1,2 @@
-# runtrack-cpp
-Apprentissage avancé de C++.
+# Projet d'apprentissage avancé de C++
+Langage utilisé : C++
