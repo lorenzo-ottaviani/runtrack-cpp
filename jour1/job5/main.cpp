@@ -26,7 +26,7 @@ int input_nombre() {
     }
 }
 
-void inverse_valeur(int &nombre1, int &nombre2) {
+void inverse_valeur(int& nombre1, int& nombre2) {
     const int tampon = nombre1;
     nombre1 = nombre2;
     nombre2 = tampon;
